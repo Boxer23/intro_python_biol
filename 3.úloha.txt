@@ -1,0 +1,18 @@
+http://localhost:8888/notebooks/'python1'.ipynb
+
+
+
+In[1]
+str.upper('python') and str.upper('python')[-1::-1]
+
+Out[1]:
+'NOHTYP'
+
+In [2]:
+apples=9
+oranges=5
+misa=apples+oranges
+'Natrhal som {} jablk a {} pomarancov, urobim si teda misu z {} kusov ovocia.'.format(apples,oranges,misa)
+
+Out[2]:
+'Natrhal som 9 jablk a 5 pomarancov, urobim si teda misu z 14 kusov ovocia.'
